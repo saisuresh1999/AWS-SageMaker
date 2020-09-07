@@ -3,7 +3,7 @@ Prediction of whether customer purchases the product or not, using Amazon SageMa
 
 
 
-# Steps To Be Followed
+## Steps To Be Followed
 1. Importing necessary Libraries 
 2. Creating S3 bucket
 3. Mapping train And Test Data in S3
